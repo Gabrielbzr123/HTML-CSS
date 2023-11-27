@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 30px;
+     }
+
+     img {
+        padding-top: 20px;
+     }
+
+     a {
+        color: white;
+        text-decoration: none;
+       }
+
+    iframe {
+        padding-bottom: 20px;
+    }
